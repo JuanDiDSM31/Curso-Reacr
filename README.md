@@ -1,5 +1,5 @@
 # React + Vite
-
+Esta es una aplicación que buscara gift que requieras de igual forma no esta subida la carpeta de produccion debemos de aplicar "yarn build"
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
